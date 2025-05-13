@@ -5,4 +5,11 @@ int main() {
     cout << "Name: Aitsaam Ali" << endl;
     cout << "Roll Number: 24-ST_008" << endl;
     return 0;
+English
+urdu
+MAth
+Physics
+Computer
+Islamiyat
+Pak Study
 }
